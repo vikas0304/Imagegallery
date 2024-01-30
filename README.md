@@ -1,2 +1,0 @@
-# Imagegallery
-Image Gallery 
